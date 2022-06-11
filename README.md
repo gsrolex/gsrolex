@@ -2,29 +2,29 @@
 
 
 
-<div id="header" align="center">
+ <div id="header" align="center">
   <div>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
-    </div>
-
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ammon-sebastian-weggersen-4a474ba0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/gsrolex">
-    <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://nodesign.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=@&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
   </div>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/ammon-sebastian-weggersen-4a474ba0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://github.com/gsrolex">
+    <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
+   </a>
+   <a href="https://nodesign.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=@&logoColor=white" alt="Twitter Badge"/>
+   </a>
+  </div>
+ </div>
 
 
 
+### 👨‍💻 About Me :
 
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
