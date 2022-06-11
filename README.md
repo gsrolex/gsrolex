@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a 29 year old guy born in Norway. I come from a family with 12 siblings so I learned early on to fix things on my own and not let anything discourage me. This has led me on a hunt to fix problems. I love solving puzzles and finding solutions to any problem I stumble across on my journey in life.
+I am a 29 year Front-end developer from Norway. I come from a family with 12 siblings so I learned early on to fix things on my own and not let anything discourage me. This has led me on a hunt to fix problems. I love solving puzzles and finding solutions to any problem I stumble across on my journey in life.
 
 This is might also be why I find coding to be so fun. I really enjoy tackling any problem. If it be code or design does not matter. I never stop until it is perfect.
 
