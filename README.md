@@ -3,8 +3,10 @@
 
 
 <div id="header" align="center">
+  <div>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
-</div>
+    </div>
+
 
 
 <div id="badges">
@@ -18,6 +20,7 @@
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=@&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  </div>
 
 
 
