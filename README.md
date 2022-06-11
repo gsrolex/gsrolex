@@ -60,10 +60,3 @@ Utside of my professional life I have a wife and a daughter that means the world
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsrolex&theme=dark)](https://git.io/streak-stats)
  
  
- ### :writing_hand: Blog Posts :
- 
-- [Test Post](https://dev.to/feed/gsrolex)
- 
- <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/gsrolex/dont-know-35ji)
-<!-- BLOG-POST-LIST:END -->
