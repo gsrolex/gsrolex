@@ -33,6 +33,12 @@ This is might also be why I find coding to be so fun. I really enjoy tackling an
 
 Utside of my professional life I have a wife and a daughter that means the world to me. I also enjoy biking and boardgames with my brothers.
 
+ <br>
+ <br>
+ <br>
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -45,6 +51,12 @@ Utside of my professional life I have a wife and a daughter that means the world
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+
+
+ <br>
+ <br>
+ <br>
+
 
 
 
