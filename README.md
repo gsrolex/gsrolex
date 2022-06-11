@@ -1,7 +1,7 @@
 # GsRolex
 
 
-
+ <br>
  <div id="header" align="center">
   <div>
    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
@@ -20,9 +20,6 @@
  </div>
  <br>
  <br>
- <br>
- <br>
-
 
 
 ### 👨‍💻 About Me :
@@ -36,8 +33,6 @@ Utside of my professional life I have a wife and a daughter that means the world
  <br>
  <br>
  <br>
-
-
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -56,10 +51,6 @@ Utside of my professional life I have a wife and a daughter that means the world
  <br>
  <br>
  <br>
-
-
-
-
 
 
 ### :fire: My Stats :
