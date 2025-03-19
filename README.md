@@ -20,21 +20,17 @@
    </a>
   </div>
  </div>
-<! -- <br>
+<<br>
  
 
 
 ### 👨‍💻 About Me :
 
-I am a 30 year Front-end developer from Norway. I come from a family with 12 siblings so I learned early on to fix things on my own and not let anything discourage me. This has led me on a hunt to fix problems. I love solving puzzles and finding solutions to any problem I stumble across on my journey in life.
 
-This is might also be why I find coding to be so fun. I really enjoy tackling any problem. If it be code or design does not matter. I never stop until it is perfect.
-
-Utside of my professional life I have a wife and a daughter that means the world to me. I also enjoy biking and boardgames with my brothers.
 
  <br>
  <br>
--->
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
