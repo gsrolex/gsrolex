@@ -20,7 +20,7 @@
    </a>
   </div>
  </div>
- <br>
+<! -- <br>
  
 
 
@@ -34,7 +34,7 @@ Utside of my professional life I have a wife and a daughter that means the world
 
  <br>
  <br>
-
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
