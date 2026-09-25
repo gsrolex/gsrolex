@@ -57,4 +57,4 @@ A roguelike engine builder. You spin, trigger symbols, make combos, and build an
 <br>
 
 
- 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=gsrolex&theme=dark)](https://git.io/streak-stats)
